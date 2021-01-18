@@ -14,19 +14,21 @@ body > header {
     margin: 50;
     background-color: dodgerblue;
     color: white;
-    text-align: left
+    text-align:
 
 }
 
-nav > header > ul {
+header > nav > ul > li > a{
     list-style: none;
     color: white;
     text-align: right
 
 }
 
-nav > ul > li > > a {
-    color: white;
+main > aside > section > nav > ul > li > a {
+    list-style: none;
+    color: black;
+    text-align: right
 }
 
 body > main > article {
@@ -34,7 +36,3 @@ body > main > article {
     width: 70%;
     text-align: left
 }
-
-.like-button {
-    background-color: transparent;
-    border: 1px solid dodgerblue;
