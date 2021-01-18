@@ -35,5 +35,6 @@ body > main > article {
     text-align: left
 }
 
-
-}
+.like-button {
+    background-color: transparent;
+    border: 1px solid dodgerblue;
